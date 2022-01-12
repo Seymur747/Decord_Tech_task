@@ -1,0 +1,11 @@
+.Card{
+    background-color: #123456;
+    margin: 10px;
+    border-radius: 10px;
+}
+h6{
+    font-size: .7em;
+}
+.inputDiv{
+    text-align: center;
+}
